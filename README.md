@@ -10,4 +10,4 @@ Programming languages (sorted from most to least mastered): Python, HTML, CSS, J
 
 [codebois.dev](https://codebois.dev/)
 
-~~my profile pic is definitely not made in paint i am to professional for that~~
+~~my profile pic is definitely not made in paint i am too professional for that~~
