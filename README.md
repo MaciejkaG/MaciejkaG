@@ -9,3 +9,5 @@ Programming languages (sorted from most to least mastered): Python, HTML, CSS, J
 [Website](https://maciejkag.pages.dev/)
 
 [codebois.dev](https://codebois.dev/)
+
+~~my profile pic is definitely not made in paint i am to professional for that~~
