@@ -5,6 +5,7 @@ Part of codebois.dev
 Nationality: Poland<br>
 Speaking lanuages: Polish, English<br>
 Programming languages (sorted from most to least mastered): Python, Javascript, C#, Kotlin
+Also can't wait for Mojo to come out!
 
 [Website](https://maciejkag.pages.dev/)
 
