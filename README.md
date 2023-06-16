@@ -1,8 +1,8 @@
 # About me
 **Fullstack developer**
 
-Part of codebois.dev
-Nationality: Poland<br>
+Part of codebois.dev<br>
+Nationality: Polish<br>
 Speaking lanuages: Polish, English<br>
 ## Main environments:
 ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
