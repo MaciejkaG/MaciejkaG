@@ -10,7 +10,7 @@ Speaking lanuages: Polish, English<br>
 ![](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=MaciejkaG&show_icons=true&theme=transparent) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejkaG&layout=donut&theme=transparent)]
+![](https://github-readme-stats.vercel.app/api?username=MaciejkaG&show_icons=true&theme=transparent) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejkaG&layout=donut&theme=transparent)
 
 # Current projects:
 ## [statboi Discord bot](https://statboi.xyz/)
