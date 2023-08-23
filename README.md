@@ -9,9 +9,6 @@ Speaking lanuages: Polish, English<br>
 ## Still learning:
 ![](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
 
-## Stats
-![](https://github-readme-stats.vercel.app/api?username=MaciejkaG&show_icons=true&theme=transparent) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejkaG&layout=donut&theme=transparent)
-
 # Current projects:
 ## [statboi Discord bot](https://statboi.xyz/)
 statboi is an advanced statistics Discord bot collecting huge amounts of data in order to server it to it's users. It has a [dashboard](https://dash.statboi.xyz/) made in PHP.
@@ -21,3 +18,5 @@ Simple yet functional Discord bot with a web dashboard.
 
 ## [Codebois](https://codebois.dev/)
 Codebois is a small company consisiting of 3 very dedicated developers and designers that offers web development, mobile development and help with estabilishing websites for a reasonable price.
+
+![](https://github-readme-stats.vercel.app/api?username=MaciejkaG&show_icons=true&theme=transparent) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejkaG&layout=donut&theme=transparent)
