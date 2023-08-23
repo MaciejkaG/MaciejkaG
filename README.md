@@ -16,7 +16,7 @@ Speaking lanuages: Polish, English<br>
 ## [statboi Discord bot](https://statboi.xyz/)
 statboi is an advanced statistics Discord bot collecting huge amounts of data in order to server it to it's users. It has a [dashboard](https://dash.statboi.xyz/) made in PHP.
 
-## [Bard](/codebois-dev/bard)
+## [Bard](https://github.com/codebois-dev/bard)
 Simple yet functional Discord bot with a web dashboard.
 
 ## [Codebois](https://codebois.dev/)
