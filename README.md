@@ -20,3 +20,5 @@ Simple yet functional Discord bot with a web dashboard.
 Codebois is a small company consisiting of 3 very dedicated developers and designers that offers web development, mobile development and help with estabilishing websites for a reasonable price.
 
 ![](https://github-readme-stats.vercel.app/api?username=MaciejkaG&show_icons=true&theme=transparent) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejkaG&layout=donut&theme=transparent)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z8OQF2R)
