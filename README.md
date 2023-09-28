@@ -1,7 +1,7 @@
 # About me
 **Fullstack developer**
 
-Part of Codebois<br>
+Co-founder of Codebois<br>
 Nationality: Polish<br>
 Speaking lanuages: Polish, English<br>
 Contact: biz@maciejka.xyz<br>
