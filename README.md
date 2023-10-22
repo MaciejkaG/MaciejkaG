@@ -1,12 +1,11 @@
 # About me
-**Fullstack developer**
+**Passionate fullstack developer**
 
 Co-founder of Codebois<br>
 Nationality: Polish<br>
-Speaking lanuages: Polish, English<br>
+Known languages: Polish, English<br>
 Contact: biz@maciejka.xyz<br>
 
-I also hate React and prefer pure Express.
 ## Main environments:
 ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) ![](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white) ![](https://img.shields.io/badge/Electron-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white) ![](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) ![](https://img.shields.io/badge/XAML-0C54C2.svg?style=for-the-badge&logo=XAML&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
 
