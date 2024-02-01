@@ -20,7 +20,7 @@ Codebois is a team consisiting of 3 very dedicated developers and designers that
 Advanced and functional open-source Discord music bot with a beautiful React-free web dashboard that actually works.
 
 ## [statboi Discord bot](https://statboi.xyz/)
-statboi is an advanced statistics Discord bot collecting huge amounts of data in order to server it to it's users. It also has a [dashboard](https://dash.statboi.xyz/) made in PHP.
+statboi was an advanced statistics Discord bot that has been shut down collecting huge amounts of data in order to serve it to it's users. It also had a [dashboard](https://dash.statboi.xyz/) made in PHP.
 
 ![](https://github-readme-stats.vercel.app/api?username=MaciejkaG&show_icons=true&theme=transparent) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejkaG&layout=donut&theme=transparent)
 
