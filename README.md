@@ -5,6 +5,7 @@ Co-founder of Codebois<br>
 Nationality: Polish<br>
 Known languages: Polish, English<br>
 Contact: biz@maciejka.xyz<br>
+[My Monkeytype profile](https://monkeytype.com/profile/maciejkag)
 [My Gitea server](https://git.maciejka.xyz/)<br>
 [Occasional random stuff to buy here](https://maciejka.sellix.io/)
 
