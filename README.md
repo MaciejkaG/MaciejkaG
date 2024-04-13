@@ -6,7 +6,7 @@ Nationality: Polish<br>
 Known languages: Polish, English<br>
 Contact: biz@mcjk.cc<br>
 [My Monkeytype profile](https://monkeytype.com/profile/maciejkag)<br>
-[My Gitea server](https://git.maciejka.xyz/)<br>
+[My Gitea server](https://git.mcjk.cc/)<br>
 [Occasional random stuff to buy here](https://maciejka.sellix.io/)
 
 ## Main technologies I work with:
