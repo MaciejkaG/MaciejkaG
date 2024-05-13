@@ -9,19 +9,19 @@ Contact: biz@mcjk.cc<br>
 [My Gitea server](https://git.mcjk.cc/)<br>
 [Occasional random stuff to buy here](https://maciejka.sellix.io/)
 
-## Main technologies I work with:
-![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) ![](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white) ![](https://img.shields.io/badge/Electron-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white) ![](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) ![](https://img.shields.io/badge/XAML-0C54C2.svg?style=for-the-badge&logo=XAML&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
+## My toolset:
+![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) ![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white) ![](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white) ![](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black) ![](https://img.shields.io/badge/Electron-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
 
 # Current projects:
-
-## [Codebois](https://codebois.dev/)
-Codebois is a team consisiting of 3 very dedicated developers and designers that offers professional web development, mobile development and help with estabilishing websites for a reasonable price.
 
 ## [Bard](https://github.com/codebois-dev/bard)
 Advanced and functional open-source Discord music bot with a beautiful React-free web dashboard that actually works.
 
-## [statboi Discord bot](https://statboi.xyz/)
-statboi was an advanced statistics Discord bot that has been shut down collecting huge amounts of data in order to serve it to it's users. It also had a [dashboard](https://dash.statboi.xyz/) made in PHP.
+## [Statki](https://statki.mcjk.cc/)
+Statki is an online battleships game built using Socket.io with Express and vanilla JS.
+
+## [Codebois](https://codebois.dev/)
+Codebois is a team consisiting of 3 very dedicated developers and designers that offers professional web development, mobile development and help with estabilishing websites for a reasonable price.
 
 ![](https://github-readme-stats.vercel.app/api?username=MaciejkaG&show_icons=true&theme=transparent) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejkaG&layout=donut&theme=transparent)
 
