@@ -14,14 +14,8 @@ Contact: biz@mcjk.cc<br>
 
 # Current projects:
 
-## [Bard](https://github.com/codebois-dev/bard)
-Advanced and functional open-source Discord music bot with a beautiful React-free web dashboard that actually works.
-
 ## [Statki](https://statki.mcjk.cc/)
 Statki is an online battleships game built using Socket.io with Express and vanilla JS.
-
-## [Codebois](https://codebois.dev/)
-Codebois is a team consisiting of 3 very dedicated developers and designers that offers professional web development, mobile development and help with estabilishing websites for a reasonable price.
 
 ![](https://github-readme-stats.vercel.app/api?username=MaciejkaG&show_icons=true&theme=transparent) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejkaG&layout=donut&theme=transparent)
 
