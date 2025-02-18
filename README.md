@@ -1,9 +1,7 @@
 # About me
 **Passionate fullstack developer**
 
-Co-founder of Codebois<br>
-Nationality: Polish<br>
-Known languages: Polish, English<br>
+Speaking: Polish (native), English (fluent)<br>
 Check out [my Ko-fi](https://ko-fi.com/maciejkag) for a lot of free insider details on my projects!
 
 Contact: biz@mcjk.cc<br>
@@ -14,8 +12,8 @@ Contact: biz@mcjk.cc<br>
 
 # Current projects:
 
-## [buzz](https://github.com/MaciejkaG/buzz/)
-Buzz is an open-source web-based buzzer system built in Next.js. This way you could easily organise a classroom quiz game, or a family game night, or maybe a fun activity for you and your colleagues!
+## Project O / Lux
+I'm currently working on an MMO desktop game in Godot and a non-intrusive launcher in Electron for it (and possible future games) that would both utilise **mcjk id** for authentication. Further details to be shared later.
 
 ## [mcjk id](https://id.mcjk.cc/)
 A proprietary authentication service based on Auth0, designed to work with games and social apps of mine.
@@ -25,6 +23,9 @@ Statki is an online battleships game built using Socket.io with Express and vani
 
 ## [Apollo](https://github.com/77-co/Apollo/)
 An experimental IoT AI-based voice assistant. It uses Google's and OpenAI's APIs to provide seamless experience, sealed with a wonderful design. Apollo integrates with your favorite everyday services like Google Calendar and Spotify.
+
+## [buzz](https://github.com/MaciejkaG/buzz/)
+Buzz is an open-source web-based buzzer system built in Next.js. This way you could easily organise a classroom quiz game, or a family game night, or maybe a fun activity for you and your colleagues!
 
 ![](https://github-readme-stats.vercel.app/api?username=MaciejkaG&show_icons=true&theme=transparent) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejkaG&layout=donut&theme=transparent)
 
