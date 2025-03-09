@@ -17,7 +17,7 @@ Contact: biz@mcjk.cc<br>
 I'm currently working on an MMO desktop game in Godot and a non-intrusive launcher in Electron for it (and possible future games) that would both utilise **mcjk id** for authentication. Further details to be shared later.
 
 ## [mcjk id](https://id.mcjk.cc/)
-A proprietary authentication service based on Auth0, designed to work with games and social apps of mine.
+A proprietary authentication service based on Auth0 with a front in Next.js, designed to work with games and other online apps of mine.
 
 ## [Statki](https://statki.mcjk.cc/)
 Statki is an online battleships game built using Socket.io with Express and vanilla JS.
