@@ -2,7 +2,7 @@
 **I'm Maciej, a passionate designer and fullstack developer**<br>
 Also learning Flutter and game development (Godot).
 
-Speaking: Polish (native), English (fluent)<br>
+Speaking: Polish (native), English (fluent) + learning Korean<br>
 Check out [my Ko-fi](https://ko-fi.com/maciejkag) for a lot of free insider details on my projects!
 
 Contact: biz@mcjk.cc<br>
@@ -13,17 +13,23 @@ Contact: biz@mcjk.cc<br>
 
 # Current projects:
 
-## Project O / Lux
-I'm currently working on an MMO desktop game in Godot and a non-intrusive launcher in Electron for it (and possible future games) that would both utilise **mcjk id** for authentication. Further details to be shared later.
+## [Starpaste](https://starpaste.eu/)
+The ultimate end-to-end encrypted collaborative workspace for developers. Closed alpha planned for summer 2025, open beta late 2025 or early 2026. Starting 1.0 will be open-sourced.
+
+## [The Squircle Portal](https://squircle.site/)
+A WIP all-in-one website for the squircle nerds. Open-sourced [here](https://github.com/MaciejkaG/the-squircle-portal/).
+
+## [Apollo](https://github.com/77-co/Apollo/) (Polish-only)
+An experimental IoT AI-based voice assistant. It uses Google's and OpenAI's APIs to provide seamless experience, sealed with a wonderful design. Apollo integrates with your favorite everyday services like Google Calendar and Spotify.
+
+## [1sh.pl](https://1sh.pl/)
+A simple URL shortener I made in less then 2 hours. More features (like custom links, tracking) are planned. Open-sourced [here](https://github.com/MaciejkaG/1sh).
 
 ## [mcjk id](https://id.mcjk.cc/)
 A proprietary authentication service based on Auth0 with a front in Next.js, designed to work with games and other online apps of mine.
 
-## [Statki](https://statki.mcjk.cc/)
+## [Statki](https://github.com/MaciejkaG/statki)
 Statki is an online battleships game built using Socket.io with Express and vanilla JS.
-
-## [Apollo](https://github.com/77-co/Apollo/) (Polish-only)
-An experimental IoT AI-based voice assistant. It uses Google's and OpenAI's APIs to provide seamless experience, sealed with a wonderful design. Apollo integrates with your favorite everyday services like Google Calendar and Spotify.
 
 ## [buzz](https://github.com/MaciejkaG/buzz/)
 Buzz is an open-source web-based buzzer system built in Next.js. This way you could easily organise a classroom quiz game, or a family game night, or maybe a fun activity for you and your colleagues!
