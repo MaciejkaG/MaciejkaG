@@ -17,7 +17,7 @@ The ultimate end-to-end encrypted collaborative workspace for developers. Closed
 ## [The Squircle Portal](https://squircle.site/)
 A WIP all-in-one website for the squircle nerds. Open-sourced [here](https://github.com/MaciejkaG/the-squircle-portal/).
 
-## [Apollo](https://github.com/77-co/Apollo/) (Polish-only)
+## [Apollo](https://github.com/77-co/Apollo/)
 An experimental IoT AI-based voice assistant. It uses Google's and OpenAI's APIs to provide seamless experience, sealed with a wonderful design. Apollo integrates with your favorite everyday services like Google Calendar and Spotify.
 
 ## [1sh.pl](https://1sh.pl/)
