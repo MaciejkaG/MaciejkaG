@@ -1,8 +1,8 @@
 # About me
-**I'm Maciej, a passionate graphic designer and fullstack developer mostly.**<br>
+**I'm Maciej, a creative technologist and fullstack developer for the most part.**<br>
 <sup>*But I constantly learn and adapt, and did DevOps, 3D modelling, video editing, game development, mobile development and a bit of electronics too.*</sup>
 
-Speaking: Polish (native), English (fluent) + learning Korean<br>
+Speaking: Polish (native), English (fluent)<br>
 
 Contact: biz@mcjk.cc
 
