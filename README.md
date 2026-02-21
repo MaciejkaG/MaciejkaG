@@ -4,7 +4,7 @@
 
 Speaking: Polish (native), English (fluent)<br>
 
-Contact: biz@mcjk.cc
+Contact: biz@mcjk.cc or [@mcjk:mcjk.cc](https://matrix.to/#/@mcjk:mcjk.cc)
 
 ## My toolset
 I started my journey with **Python**. Once I felt I’d squeezed enough out of it, I moved on to **JavaScript**, which remains my main language until today. Recently I’ve been going deep into Rust and I plan to stick with it long-term. Along the way I also worked with PHP and a bit of C++ for school and side projects — neither really clicked with me.
