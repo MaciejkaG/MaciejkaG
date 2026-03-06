@@ -3,7 +3,7 @@
 
 Speaking: Polish (native), English (fluent)<br>
 
-Contact: biz@mcjk.cc or [@mcjk:mcjk.cc](https://matrix.to/#/@mcjk:mcjk.cc)
+Contact: me@gomola.dev or [@gomola:gomola.dev](https://matrix.to/#/@gomola:gomola.dev)
 
 ## My toolset
 I started my journey with **Python**. Once I felt I’d squeezed enough out of it, I moved on to **JavaScript**, which remains my main language until today. Recently I’ve been going deep into Rust and I plan to stick with it long-term. Along the way I also worked with PHP and a bit of C++ for school and side projects — neither really clicked with me.
@@ -13,7 +13,7 @@ For desktop apps I started with **Electron**, but nowadays I use **Tauri** — i
 
 For design and planning I use **Figma** extensively, and **Notion** (sometimes **Trello**) for organising projects, ideas and collaboration.
 
-I’m comfortable across all major desktop OSes. I daily-drive **Linux** (Ubuntu),  **macOS** and **Windows**. I’ve hopped through a fair share of distros over the years and found Ubuntu to be the one. I haven’t shipped large mobile apps yet, but I know the internals and ecosystems of both **Android** and **iOS** well enough.
+I’m comfortable across all major desktop OSes. I daily-drive **Linux** (Fedora),  **macOS** and **Windows**. I’ve hopped through a fair share of distros over the years and found Ubuntu to be the one. I haven’t shipped large mobile apps yet, but I know the internals and ecosystems of both **Android** and **iOS** well enough.
 
 # Major things I'm working on:
 
