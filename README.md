@@ -21,7 +21,7 @@ I’m comfortable across all major desktop OSes. I daily-drive **Linux** (Ubuntu
 An SSH client, working on every platform in perfect sync and harmony. I want to provide modern features, customisation, a pretty UI and transparency. I'm currently working on Hana Desktop which will run on all major platforms. It will be open-source and among others feature E2EE cross-platform cloud sync (with an option to self-host the server instead) and collaboration.
 
 ## [Starpaste](https://starpaste.eu/) (Closed Alpha)
-The ultimate end-to-end encrypted collaborative workspace built for everyone, but with developers and power-users in mind. Currently in closed alpha, open beta is the next stage and it's yet to be announced. Starting 1.0 will be open-sourced.
+The ultimate end-to-end encrypted collaborative workspace built for everyone, but with developers and power-users in mind. Currently in closed alpha, open beta is the next stage and it's yet to be announced.
 
 # Less major things I've been working on:
 
